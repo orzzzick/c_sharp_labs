@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="lab_7/lab_7.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="lab_7/Program.cs">
+    <Files>
+      <File FileName="lab_7/Program.cs" Line="13" Column="4" />
+      <File FileName="lab_7/SortingStr.cs" Line="22" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

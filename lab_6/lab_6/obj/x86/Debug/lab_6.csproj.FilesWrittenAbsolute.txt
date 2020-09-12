@@ -1,0 +1,5 @@
+/home/slon/projects/sharp/labs/lab_6/lab_6/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/slon/projects/sharp/labs/lab_6/lab_6/bin/Debug/lab_6.exe.mdb
+/home/slon/projects/sharp/labs/lab_6/lab_6/bin/Debug/lab_6.exe
+/home/slon/projects/sharp/labs/lab_6/lab_6/obj/x86/Debug/lab_6.exe
+/home/slon/projects/sharp/labs/lab_6/lab_6/obj/x86/Debug/lab_6.exe.mdb
